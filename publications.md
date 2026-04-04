@@ -5,28 +5,30 @@ order: 4
 ---
 
 <section>
-	<strong>17</strong> <span class="lang-en">Journal Publications</span><span class="lang-kr"> 저널 논문</span> &nbsp;&bull;&nbsp; 
+	<strong>18</strong> <span class="lang-en">Journal Publications</span><span class="lang-kr"> 저널 논문</span> &nbsp;&bull;&nbsp; 
 	<strong>11</strong> <span class="lang-en">Conference Papers</span><span class="lang-kr"> 학회 논문</span> &nbsp;&bull;&nbsp; 
 	<strong>2</strong> <span class="lang-en">Under Review</span><span class="lang-kr"> 심사 중</span>
 
 	<hr />
 
-	<h3 class="major">
+	<!-- <h3 class="major">
 		<span class="lang-en">Under Review</span>
 		<span class="lang-kr">심사 중인 논문</span>
 	</h3>
 	<ul class="alt">
-		<li>
-			[2] <strong>Adaptive Sequence-to-Sequence Learning for Long-Term PMSM Temperature Prediction</strong><br>
-			Jun Young Lee, <strong>Hyun-Myung Woo</strong>, Hyundoo Jeong
-		</li>
-	</ul>
+
+	</ul> -->
 
 	<h3 class="major">
 		<span class="lang-en">Journal Publications</span>
 		<span class="lang-kr">저널 논문</span>
 	</h3>
 	<ul class="alt">
+		<li>
+			[18] <strong>Adaptive Sequence-to-Sequence Learning for Long-Term PMSM Temperature Prediction</strong><br>
+			Jun Young Lee, <strong>Hyun-Myung Woo</strong>, Hyundoo Jeong<br>
+			<em>AIP Advances 16, no. 4, 2026</em>
+		</li>
 		<li>
 			[17] <strong>A framework for parametric and predictive uncertainty quantification in the E3SM Land Model: Assessing the impact of site and observable heterogeneity</strong><br>
 			Jiang, Z., Isenberg, N.M., Subba, T., <strong>Woo, H.-M.</strong>, Serbin, S.P., Urban, N.M., Kuang, C.<br>
