@@ -14,7 +14,7 @@ order: 2
 			Our Computational Science Laboratory is currently accepting applications for Ph.D., M.S., and Undergraduate research positions. These opportunities involve conducting cutting-edge research in mathematical optimization and machine/deep learning to address complex scientific and engineering challenges.
 		</div>
 		<div class="lang-kr">
-			Computational Science Laboratory에서는 현재 박사, 석사 및 학부 연구생을 모집하고 있습니다. 우리 연구실은 수학적 최적화와 머신러닝/딥러닝을 활용하여 복잡한 과학 및 공학적 난제를 해결하는 최첨단 연구를 수행하고 있습니다.
+			Computational Science Laboratory에서는 현재 박사, 석사 및 학부 연구생을 모집하고 있습니다. 우리 연구실은 딥러닝/머신러닝과 수학적 최적화를 활용하여 복잡한 과학 및 공학적 난제를 해결하는 최첨단 연구를 수행하고 있습니다.
 		</div>
 	</blockquote>
 	<div class="table-wrapper">
@@ -47,6 +47,10 @@ order: 2
 	</h3>
 	<ul>
 		<li>
+			<span class="lang-en"><strong>Juho Lee</strong></span>
+			<span class="lang-kr"><strong>이주호</strong></span>
+		</li>
+		<li>
 			<span class="lang-en"><strong>Yunsang Park</strong></span>
 			<span class="lang-kr"><strong>박윤상</strong></span>
 		</li>
@@ -59,8 +63,8 @@ order: 2
 			<span class="lang-kr"><strong>이윤우</strong></span>
 		</li>
 		<li>
-			<span class="lang-en"><strong>Juho Lee</strong></span>
-			<span class="lang-kr"><strong>이주호</strong></span>
+			<span class="lang-en"><strong>Yunseo Yeo</strong></span>
+			<span class="lang-kr"><strong>여윤서</strong></span>
 		</li>
 	</ul>
 
