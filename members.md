@@ -59,10 +59,6 @@ order: 2
 			<span class="lang-kr"><strong>김찬회</strong></span>
 		</li>
 		<li>
-			<span class="lang-en"><strong>Yunwoo Lee</strong></span>
-			<span class="lang-kr"><strong>이윤우</strong></span>
-		</li>
-		<li>
 			<span class="lang-en"><strong>Yunseo Yeo</strong></span>
 			<span class="lang-kr"><strong>여윤서</strong></span>
 		</li>
@@ -81,7 +77,7 @@ order: 2
 		</li>
 		<li>
 			<span class="lang-en"><strong>Jiho Han</strong> (Initial Placement: Hanwha Robotics)</span>
-			<span class="lang-kr"><strong>한지호</strong> (첫 소속기관: 한화 로보틱스)</span>
+			<span class="lang-kr"><strong>한지호</strong> (첫 소속기관: 에스에스피)</span>
 		</li>
 	</ul>
 </section>
