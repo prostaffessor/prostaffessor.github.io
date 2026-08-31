@@ -206,6 +206,10 @@ order: 3
         <h4 class="major">Completed Projects</h4>
         <ul class="alt">
             <li>
+                <strong>Investigating the Perception-Production-Motor Linkage Mechanisms of Speech: Multimodal AI Modeling and Biomarker Development for Autism Spectrum Disorder</strong><br>
+                Global Convergence Research in Humanities and Social Sciences, The National Research Foundation of Korea (NRF), 2026 - Present
+            </li>
+            <li>
                 <strong>Development of Oral Wearable/Implantable Neural Stimulator for Sleep Apnea Rehabilitation Treatment</strong><br>
                 Alchemist Project, Korea Institute for Advancement of Technology (KIAT), 2025 - 2025
             </li>
@@ -227,6 +231,10 @@ order: 3
     <div class="lang-kr">
         <h4 class="major">수행 중인 과제 (Current Projects)</h4>
         <ul class="alt">
+            <li>
+                <strong>발화의 지각-산출-운동 연결 매커니즘 연구: 자폐성장애 기반 멀티모달 AI 모델링 및 바이오마커 개발</strong><br>
+                글로벌인문사회융합연구, 한국연구재단(NRF), 2026 - 현재
+            </li>
             <li>
                 <strong>가속화된 최적 실험 설계를 위한 딥러닝 기반 다목적 불확실성 정량화</strong><br>
                 교내연구, 인천대학교, 2025 - 현재

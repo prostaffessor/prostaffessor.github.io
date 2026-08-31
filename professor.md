@@ -114,6 +114,10 @@ order: 1
 		<h4 class="major">Honors & Awards</h4>
 		<ul class="alt">
 			<li>
+				<strong>Excellence in Teaching Award</strong><br>
+				Incheon National University, 2026
+			</li>
+			<li>
 				<strong>Outstanding Paper</strong><br>
 				KIIS 2025 Fall Conference, 2025
 			</li>
@@ -147,6 +151,10 @@ order: 1
 	<div class="lang-kr">
 		<h4 class="major">수상 경력</h4>
 		<ul class="alt">
+			<li>
+				<strong>우수 강의상</strong><br>
+				인천대학교, 2026
+			</li>
 			<li>
 				<strong>우수 논문상</strong><br>
 				KIIS 2025 추계 학술대회, 2025
