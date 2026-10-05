@@ -11,7 +11,7 @@ order: 4
 
 	<hr />
 
-	<h3 class="major">
+	<!-- <h3 class="major">
 		<span class="lang-en">Under Review</span>
 		<span class="lang-kr">심사 중인 논문</span>
 	</h3>
@@ -19,7 +19,7 @@ order: 4
 		<li>
 			[1] <strong>Digital-Twin-Based Sensor-Free Virtual Mapping for Autonomous Mobile Robot Localization</strong>
 		</li>
-	</ul>
+	</ul> -->
 
 	<h3 class="major">
 		<span class="lang-en">Journal Publications</span>
@@ -27,7 +27,7 @@ order: 4
 	</h3>
 	<ul class="alt">
 		<li>
-			[1] <strong>Digital-Twin-Based Sensor-Free Virtual Mapping for Autonomous Mobile Robot Localization</strong><br>
+			[19] <strong>Digital-Twin-Based Sensor-Free Virtual Mapping for Autonomous Mobile Robot Localization</strong><br>
 			Lee, Hae-Chan, <strong>Hyun-Myung Woo</strong>, Sungtae Shin<br>
 			<em>International Journal of Precision Engineering and Manufacturing, 2026</em>
 		</li>
