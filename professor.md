@@ -186,6 +186,10 @@ order: 1
 		<h4 class="major">Invited Talks</h4>
 		<ul class="alt">
 			<li>
+				<strong>Optimal Computational Screening Campaign</strong><br>
+				Yonsei University, Sept 2026
+			</li>
+			<li>
 				<strong>Accelerating Bayesian Optimal Experimental Design using Deep Learning</strong><br>
 				Inha University, Apr 2025
 			</li>
@@ -227,6 +231,10 @@ order: 1
 	<div class="lang-kr">
 		<h4 class="major">초청 강연</h4>
 		<ul class="alt">
+			<li>
+				<strong>Optimal Computational Screening Campaign</strong><br>
+				연세대학교, 2026년 9월
+			</li>
 			<li>
 				<strong>Accelerating Bayesian Optimal Experimental Design using Deep Learning</strong><br>
 				인하대학교, 2025년 4월

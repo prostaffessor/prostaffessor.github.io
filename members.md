@@ -76,7 +76,7 @@ order: 2
 			<span class="lang-kr"><strong>염주현</strong> (첫 소속기관: 연세대학교 대학원)</span>
 		</li>
 		<li>
-			<span class="lang-en"><strong>Jiho Han</strong> (Initial Placement: Hanwha Robotics)</span>
+			<span class="lang-en"><strong>Jiho Han</strong> (Initial Placement: SSP)</span>
 			<span class="lang-kr"><strong>한지호</strong> (첫 소속기관: 에스에스피)</span>
 		</li>
 	</ul>

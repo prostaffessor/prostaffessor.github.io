@@ -7,19 +7,19 @@ order: 4
 <section>
 	<strong>19</strong> <span class="lang-en">Journal Publications</span><span class="lang-kr">저널 논문</span> &nbsp;&bull;&nbsp; 
 	<strong>11</strong> <span class="lang-en">Conference Papers</span><span class="lang-kr">학회 논문</span> &nbsp;&bull;&nbsp; 
-	<!-- <strong>1</strong> <span class="lang-en">Under Review</span><span class="lang-kr">심사 중</span> -->
+	<strong>1</strong> <span class="lang-en">Under Review</span><span class="lang-kr">심사 중</span>
 
 	<hr />
 
-	<!-- <h3 class="major">
+	<h3 class="major">
 		<span class="lang-en">Under Review</span>
 		<span class="lang-kr">심사 중인 논문</span>
 	</h3>
 	<ul class="alt">
 		<li>
-			[1] <strong>Digital-Twin-Based Sensor-Free Virtual Mapping for Autonomous Mobile Robot Localization</strong>
+			[1] <strong>PiLENS: A Lightweight Embedding and 1D Convolutional Neural Network for piRNA Classification</strong>
 		</li>
-	</ul> -->
+	</ul>
 
 	<h3 class="major">
 		<span class="lang-en">Journal Publications</span>
