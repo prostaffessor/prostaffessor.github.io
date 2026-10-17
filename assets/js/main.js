@@ -442,6 +442,22 @@
 			}, 50);
 		});
 
+		/* --- Article Width Sync with Header Content --- */
+		function updateArticleWidth() {
+			var $headerContent = $header.find('.content');
+			if ($headerContent.length > 0) {
+				var headerWidth = $headerContent.outerWidth();
+				if (headerWidth > 0) {
+					document.documentElement.style.setProperty('--header-content-width', headerWidth + 'px');
+				}
+			}
+		}
+
+		updateArticleWidth();
+		$window.on('load.article-width resize.article-width', function () {
+			updateArticleWidth();
+		});
+
 	});
 
 })(jQuery);
