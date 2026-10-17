@@ -405,25 +405,35 @@
 			});
 
 
-		/* --- Language Toggle Logic (Added) --- */
-		// Default to Korean
-		$body.addClass('is-lang-kr');
+		/* --- Language Toggle Logic --- */
+		// Default to English
+		$body.addClass('is-lang-en');
 
-		$('#lang-toggle').on('click', function () {
+		$('#lang-toggle').on('click', function (event) {
 			var $this = $(this);
 			var $kr = $this.find('.kr');
 			var $en = $this.find('.en');
+			var $target = $(event.target);
 
-			if ($body.hasClass('is-lang-kr')) {
-				// Switch to English
-				$body.removeClass('is-lang-kr').addClass('is-lang-en');
-				$kr.removeClass('active');
-				$en.addClass('active');
+			var switchToKr;
+			if ($target.hasClass('kr')) {
+				switchToKr = true;
+			} else if ($target.hasClass('en')) {
+				switchToKr = false;
 			} else {
+				switchToKr = $body.hasClass('is-lang-en');
+			}
+
+			if (switchToKr) {
 				// Switch to Korean
 				$body.removeClass('is-lang-en').addClass('is-lang-kr');
 				$en.removeClass('active');
 				$kr.addClass('active');
+			} else {
+				// Switch to English
+				$body.removeClass('is-lang-kr').addClass('is-lang-en');
+				$kr.removeClass('active');
+				$en.addClass('active');
 			}
 
 			// Trigger layout refresh just in case height changes
