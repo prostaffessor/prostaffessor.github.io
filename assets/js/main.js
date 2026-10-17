@@ -329,8 +329,8 @@
 				if (touchMoved)
 					return;
 
-				// Don't close if interacting with links, buttons, form elements, or close button
-				if ($(event.target).closest('a, button, input, textarea, select, .close').length > 0)
+				// Don't close if interacting with links, buttons, form elements, close button, or gallery items
+				if ($(event.target).closest('a, button, input, textarea, select, .close, .gallery-item, #imageModal').length > 0)
 					return;
 
 				// Don't close if user is selecting text
@@ -343,15 +343,17 @@
 			});
 
 			$this.on('click', function (event) {
+				// Prevent all clicks inside article from bubbling to $body
+				event.stopPropagation();
+
 				// Don't close if clicking on interactive elements
-				if ($(event.target).closest('a, button, input, textarea, select, .close').length > 0)
+				if ($(event.target).closest('a, button, input, textarea, select, .close, .gallery-item, #imageModal').length > 0)
 					return;
 
 				// Don't close if user is selecting text
 				if (window.getSelection && window.getSelection().toString().length > 0)
 					return;
 
-				event.stopPropagation();
 				if ($body.hasClass('is-article-visible')) {
 					$main._hide(true);
 				}
@@ -361,6 +363,10 @@
 
 		// Events.
 		$body.on('click', function (event) {
+
+			// If click originated inside an article, do not hide
+			if ($(event.target).closest('#main article').length > 0)
+				return;
 
 			// Article visible? Hide.
 			if ($body.hasClass('is-article-visible'))

@@ -23,8 +23,8 @@ order: 1
 	</div>
 
 	<ul class="icons">
-		<li><a href="https://www.linkedin.com/in/alexpecial/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-		<li><a href="https://github.com/Alexpecial?tab=repositories" class="icon fa-github"><span class="label">Github</span></a></li>
+		<li><a href="https://www.linkedin.com/in/alexpecial/" target="_blank" rel="noopener noreferrer" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+		<li><a href="https://github.com/Alexpecial?tab=repositories" target="_blank" rel="noopener noreferrer" class="icon fa-github"><span class="label">Github</span></a></li>
 		<li><a href="mailto:hmwoo@inu.ac.kr" class="icon fa-envelope"><span class="label">Email</span></a></li>
 	</ul>
 
