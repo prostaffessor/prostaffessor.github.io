@@ -304,9 +304,57 @@
 					location.hash = '';
 				});
 
-			// Prevent clicks from inside article from bubbling.
+			// Close article when clicked or tapped, except on interactive elements or text selection.
+			var touchStartX = 0, touchStartY = 0, touchMoved = false;
+
+			$this.on('touchstart', function (event) {
+				if (event.originalEvent && event.originalEvent.touches && event.originalEvent.touches.length > 0) {
+					var touch = event.originalEvent.touches[0];
+					touchStartX = touch.clientX;
+					touchStartY = touch.clientY;
+					touchMoved = false;
+				}
+			});
+
+			$this.on('touchmove', function (event) {
+				if (event.originalEvent && event.originalEvent.touches && event.originalEvent.touches.length > 0) {
+					var touch = event.originalEvent.touches[0];
+					if (Math.abs(touch.clientX - touchStartX) > 10 || Math.abs(touch.clientY - touchStartY) > 10) {
+						touchMoved = true;
+					}
+				}
+			});
+
+			$this.on('touchend', function (event) {
+				if (touchMoved)
+					return;
+
+				// Don't close if interacting with links, buttons, form elements, or close button
+				if ($(event.target).closest('a, button, input, textarea, select, .close').length > 0)
+					return;
+
+				// Don't close if user is selecting text
+				if (window.getSelection && window.getSelection().toString().length > 0)
+					return;
+
+				if ($body.hasClass('is-article-visible')) {
+					$main._hide(true);
+				}
+			});
+
 			$this.on('click', function (event) {
+				// Don't close if clicking on interactive elements
+				if ($(event.target).closest('a, button, input, textarea, select, .close').length > 0)
+					return;
+
+				// Don't close if user is selecting text
+				if (window.getSelection && window.getSelection().toString().length > 0)
+					return;
+
 				event.stopPropagation();
+				if ($body.hasClass('is-article-visible')) {
+					$main._hide(true);
+				}
 			});
 
 		});
