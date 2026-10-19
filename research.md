@@ -198,6 +198,10 @@ order: 3
         <h4 class="major">Current Projects</h4>
         <ul class="alt">
             <li>
+                <strong>Investigating the Perception-Production-Motor Linkage Mechanisms of Speech: Multimodal AI Modeling and Biomarker Development for Autism Spectrum Disorder</strong><br>
+                Global Convergence Research in Humanities and Social Sciences, The National Research Foundation of Korea (NRF), 2026 - Present
+            </li>
+            <li>
                 <strong>Deep Learning-Driven Multi-Objective Uncertainty Quantification for Accelerated Optimal Experimental Design</strong><br>
                 Internal Research Grant, Incheon National University, 2025 - Present
             </li>
@@ -205,10 +209,6 @@ order: 3
 
         <h4 class="major">Completed Projects</h4>
         <ul class="alt">
-            <li>
-                <strong>Investigating the Perception-Production-Motor Linkage Mechanisms of Speech: Multimodal AI Modeling and Biomarker Development for Autism Spectrum Disorder</strong><br>
-                Global Convergence Research in Humanities and Social Sciences, The National Research Foundation of Korea (NRF), 2026 - Present
-            </li>
             <li>
                 <strong>Development of Oral Wearable/Implantable Neural Stimulator for Sleep Apnea Rehabilitation Treatment</strong><br>
                 Alchemist Project, Korea Institute for Advancement of Technology (KIAT), 2025 - 2025
