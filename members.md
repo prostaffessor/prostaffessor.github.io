@@ -12,7 +12,8 @@ order: 2
 
 	<div class="lang-en">
 		<blockquote>
-			The <strong>Computational Science Laboratory (CSL)</strong> at Incheon National University is actively seeking highly motivated <strong>Ph.D.</strong>, <strong>M.S.-Ph.D. Integrated</strong>, and <strong>M.S.</strong> students (as well as undergraduate interns) who are passionate about conducting cutting-edge research in Artificial Intelligence and Computational Science. We especially welcome applicants with a Computer Science (CS) background and hands-on experience in deep learning and machine learning. International students are also warmly encouraged to apply.
+			The <strong>Computational Science Laboratory (CSL)</strong> at Incheon National University invites applications for fully funded <strong>Graduate Research Assistant (RA) positions starting in March 2027</strong> (Spring 2027 semester). We are actively seeking passionate <strong>Ph.D.</strong>, <strong>M.S.-Ph.D. Integrated</strong>, and <strong>M.S.</strong> students (as well as undergraduate interns) who want to push the frontiers of Artificial Intelligence and Computational Science.<br><br>
+			We <strong>warmly welcome both domestic and international applicants</strong> with a strong <strong>Computer Science (CS)</strong> background and hands-on experience in core deep learning methodologies—particularly in <strong>multimodal learning, multi-task learning, uncertainty quantification (UQ), and explainable AI (XAI)</strong>.
 		</blockquote>
 
 		<h4 class="major">Research Focus</h4>
@@ -44,7 +45,8 @@ order: 2
 
 	<div class="lang-kr">
 		<blockquote>
-			인천대학교 <strong>계산과학연구실(Computational Science Laboratory, CSL)</strong>에서 인공지능(AI)과 계산과학 분야의 첨단 연구를 함께 이끌어갈 열정적인 <strong>박사 과정</strong>, <strong>석박사 통합 과정</strong>, <strong>석사 과정</strong> 학생(및 학부 연구생)을 모집하고 있습니다. 딥러닝/머신러닝 경험을 갖춘 컴퓨터공학(CS) 전공 학생을 선호하며, 외국인 학생(International students)의 지원도 적극 환영합니다.
+			인천대학교 <strong>계산과학연구실(Computational Science Laboratory, CSL)</strong>에서 <strong>2027년 3월부터 시작하는 전일제 대학원 연구조교(Research Assistant, RA)</strong> 학생을 모집합니다. 인공지능(AI)과 계산과학 분야의 첨단 연구를 함께 이끌어갈 열정적인 <strong>박사 과정</strong>, <strong>석박사 통합 과정</strong>, <strong>석사 과정</strong> 학생(및 학부 연구생)을 환영합니다.<br><br>
+			특히 <strong>멀티모달 학습(Multimodal Learning), 멀티태스크 학습(Multi-task Learning), 불확실성 정량화(Uncertainty Quantification, UQ), 설명가능한 AI(Explainable AI, XAI)</strong> 등 딥러닝 핵심 방법론 연구 역량이나 배경지식을 갖춘 <strong>컴퓨터공학(CS) 전공 학생</strong>을 선호하며, 국내 학생뿐만 아니라 <strong>외국인 유학생(International students)</strong>의 지원도 적극 환영합니다.
 		</blockquote>
 
 		<h4 class="major">주요 연구 분야</h4>
