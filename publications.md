@@ -18,6 +18,8 @@ order: 4
 	<ul class="alt">
 		<li>
 			[1] <strong>PiLENS: A Lightweight Embedding and 1D Convolutional Neural Network for piRNA Classification</strong>
+		</li>
+		<li>
 			[2] <strong>A Comprehensive Review on Methodological Evolution and Application Trends in Semi-Supervised Regression</strong>
 		</li>
 	</ul>
