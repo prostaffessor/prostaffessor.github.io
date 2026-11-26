@@ -7,7 +7,7 @@ order: 4
 <section>
 	<strong>19</strong> <span class="lang-en">Journal Publications</span><span class="lang-kr">저널 논문</span> &nbsp;&bull;&nbsp; 
 	<strong>11</strong> <span class="lang-en">Conference Papers</span><span class="lang-kr">학회 논문</span> &nbsp;&bull;&nbsp; 
-	<strong>1</strong> <span class="lang-en">Under Review</span><span class="lang-kr">심사 중</span>
+	<strong>2</strong> <span class="lang-en">Under Review</span><span class="lang-kr">심사 중</span>
 
 	<hr />
 
@@ -18,6 +18,7 @@ order: 4
 	<ul class="alt">
 		<li>
 			[1] <strong>PiLENS: A Lightweight Embedding and 1D Convolutional Neural Network for piRNA Classification</strong>
+			[2] <strong>A Comprehensive Review on Methodological Evolution and Application Trends in Semi-Supervised Regression</strong>
 		</li>
 	</ul>
 
